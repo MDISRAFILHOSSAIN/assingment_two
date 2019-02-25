@@ -1,0 +1,264 @@
+*{
+
+text-decoration: none;
+
+text-align: center;
+
+font-size: 19px;
+
+/* color: cornsilk; */
+
+/* background: white; */
+}
+body{
+    /* background: #74a2a2; */
+    max-width: 98%;
+    margin: 0px;
+    font-family: "Poppins",sans-serif;
+    margin-bottom: 55px;
+}
+p{}
+h1{}
+h2{
+    height: 66px;
+    margin-top: 45px;
+    font-size: 54px;
+}
+h3{
+    width: 97%;
+    margin: 45px 0px 52px 0px;
+    font-size: 44px;
+}
+h4{}
+h5{}
+h6{}
+img{
+    max-width: 100%
+}
+ul{
+    float: left;
+    overflow: hidden;
+    /* display: -webkit-inline-box; */
+    padding: 4px;
+}
+address .container{
+    text-align: center;
+    margin: 0px 321px 247px 308px;
+}
+address{
+    width: 1200px;
+}
+section{
+    overflow: hidden;
+    /* float: left; */
+    width: 97%;
+    background: #e2f5ee;
+    margin: -1px 0px 1px 38px;
+}
+span{
+    overflow: hidden;
+}
+
+.btn{
+    border: solid;
+    border-color: #d6caba;
+    background: black;
+}
+.container{height: 86px;float: left;width: 50%;}
+/*frist line start*/
+.frist-part{
+    margin-bottom: 0px;
+    /* background: aqua; */
+    float: right;
+    width: 1280px;
+    background: #3cd8d1;
+}
+.logo{
+    font-weight: 100;
+    font-style: italic;
+    margin: 0px 0px -4px 10px;
+}
+.logo h3{
+    margin: 2px 0px 14px 0px;
+    text-align: left;
+    font-size: 21px;
+    color: blueviolet;
+}
+.menu{
+}
+.menu ul{
+    margin: -10px 0px 0px 10px;
+    display: inline-block;
+    padding: 0px 1px 4px 0px;
+}
+
+ul {
+    margin: 6px 5px 5px 6px;
+}
+.menu ul li{
+    padding: 1px 13px 5px 0px;
+    float: left;
+    display: inline-block;
+}
+.menu ul li a{
+    display: inline-block;
+}
+.menu ul li a:hover{
+    color: red;
+}
+.logo-content{
+    padding: 11% 0px 233px 0px;
+    width: 100%;
+    margin: 0px;
+}
+.logo-content h3{
+    text-align: center;
+    font-size: 29px;
+    margin: 154px 0px 0px 0px;
+    color: hsla(120, 26%, 43%, 0.59);
+    font-style: italic;
+}
+.logo-content h1{
+    text-align: center;
+    font-size: 39px;
+    margin: 16px 21px 13px 16px;
+    color: #aa0fbdcc;
+}
+.logo-content p{
+    text-align: center;
+} 
+.frist-part-img-icon{}
+.frist-part-img-icon img{}
+.banner-img{
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    margin: 0px 0px 0px 0px;
+}
+.banner-img img{}
+.social{
+    display: inline-block;
+    position: fixed;
+    margin: 18% 0px 9px -39px;
+    padding: 0px 0px 20px 0px;
+}
+.socoal ul{}
+.social li{
+    position: static;
+    border: solid;
+    padding: 8px 5px 10px 6px;
+    background: darkgrey;
+    margin-bottom: 0px;
+    border-color: cornsilk;
+}
+.social li a{}
+.social li a:hover{
+    color: rgb(0, 0, 0);
+}
+footer{}
+/*frist line end*/
+
+/*about me*/
+.about-me{
+    overflow: hidden;
+    height: 375px;
+    background: #d6ece4;
+    margin: 6px 0px -2px 36px;
+    width: 97%;
+}
+.about-me h3{margin: 39px 62px 18px 25px;font-size: 28px;}
+.about-me p{width:;font-size: 24px;margin: 0px 0px 7px 0px;} 
+.about-me a{
+    color: #71a071;
+}
+.about-me a:hover{
+    color: #82ce38;
+}
+
+/*abput me  end*/
+
+/*showreel start*/
+.video{width: 97%;margin: 0px 0px 0px 38px;}
+.video-play{
+    width: 100%;
+}
+.video-play h2{}
+.play{}
+/*shoereel end*/
+
+/*my-photos start*/
+.my-phpto{}
+.container-one{
+    margin: 0px -30px 3px 0px;
+    padding: 0px;
+}
+.service-section{}
+.service-section h3{}
+.col-1{margin: 0px 0px 0px 0px;width: 104%;box-shadow: 9px red;}
+.col-1 img{
+    height: 487px;
+    /* width: 31.66%; */
+    padding: 0px 4px 4px 14px;
+}
+.col-2{
+    width: 102%;
+}
+.col-2 img{
+    height: 489px;
+    box-sizing: border-box;
+    padding: 7px 17px 9px 0px;
+}
+/*my-photos end*/
+
+/*contract start*/
+.last-content{
+    margin-top: 72px;
+}
+.contratc-D h2{}
+.container-two{
+    /* width: 50%; */
+    /* float: left; */
+}
+.contract-img{
+    width: 50%;
+    float: left;
+    height: 523px;
+}
+.contract-img img{}
+.contratc-D{text-align-last: left;float: left;width: 50%;text-align: -webkit-auto;height: 523px;background: cadetblue;}
+.contratc-D h2{
+    font-size: 41px;
+    /* text-align: center; */
+    color: aliceblue;
+    /* background-color: #ad1c1c; */
+    margin: 15px 0px -4px 140px;
+}
+.contratc-D h4{
+    margin: 13px 0px 5px 147px;
+}
+.contratc-D p{
+    margin: 5px 0px 5px 147px;
+}
+.icon{
+    margin: 1px 35px 2px 140px;
+    padding: 2px;
+}
+.icon li{
+    float: left;
+    display: inline-block;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.icon li a{
+    color: green;
+}
+.icon li a:hover{
+    color: black;
+}
+.contratc-D h3{
+    margin: 0px 0px 0px 147px;
+    font-size: 24px;
+}
+span{}
+
+/*contract end*/
